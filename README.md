@@ -1,7 +1,7 @@
 # 2048
 
 ## Apraksts
-Origenal [2048](https://play2048.co) ir pārlūkprogrammas spēle, ko JavaScript programmēšanas valodā sarakstījis 19 gadus vecais itāļu izstrādātājs Gabriele Cirulli. Spēles laukumam ir 4x4 kvadrāta forma. Spēles mērķis ir iegūt 2048 nominālvērtības flīzi (ja vēlaties, varat turpināt tālāk). Es kā projekts tehnikumā gribu uzrakstīt 2048, tikai C ++, izmantojot SFML bibliotēku.
+[Oriģinālais 2048](https://play2048.co) ir pārlūkprogrammas spēle, ko JavaScript programmēšanas valodā sarakstījis 19 gadus vecais itāļu izstrādātājs Gabriele Cirulli. Spēles laukumam ir 4x4 kvadrāta forma. Spēles mērķis ir iegūt 2048 nominālvērtības flīzi (ja vēlaties, varat turpināt tālāk). Es kā projekts tehnikumā gribu uzrakstīt 2048, tikai C ++, izmantojot SFML bibliotēku.
 ## Galvenās funkcijas
 Katrā kārtā parādās flīze ar nominālu "2" (ar varbūtību 90%) vai "4" (ar varbūtību 10%)
 Nospiežot bultiņu, spēlētājs var nomest visas spēles laukuma flīzes vienā no 4 virzieniem. 
